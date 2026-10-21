@@ -7,14 +7,23 @@ A low-cost robotic car controlled wirelessly using a smartphone via Bluetooth.
 The Arduino UNO processes commands received from the mobile app and controls the car's movement through a motor driver.
 
 ## Hardware Components
+
 Arduino UNO
+
 L298N Motor Driver
+
 4 × 6V DC Motors
+
 2 × Lithium-ion Batteries
+
 HC-05 Bluetooth Module
+
 Buzzer
+
 4 × LEDs
+
 Jumper Wires
+
 Switch
 
 ## Working Principle (Workflow)
